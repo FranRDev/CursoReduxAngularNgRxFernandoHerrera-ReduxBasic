@@ -1,0 +1,19 @@
+{
+  "name": "cursoreduxangularngrxfernandoherrera-reduxbasic",
+  "version": "1.0.0",
+  "description": "Mi código de seguimiento del curso \"REDUX en Angular con NGRX: Desde las bases hasta la práctica\" de Fernando Herrera en Udemy. Proyecto \"Redux Basic\".   https://www.udemy.com/course/redux-ngrx-angular/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KerosenoDev/CursoReduxAngularNgRxFernandoHerrera-ReduxBasic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KerosenoDev/CursoReduxAngularNgRxFernandoHerrera-ReduxBasic/issues"
+  },
+  "homepage": "https://github.com/KerosenoDev/CursoReduxAngularNgRxFernandoHerrera-ReduxBasic#readme"
+}
