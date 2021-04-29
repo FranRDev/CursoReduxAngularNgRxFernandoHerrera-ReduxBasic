@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KerosenoDev/CursoReduxAngularNgRxFernandoHerrera-ReduxBasic/issues"
   },
-  "homepage": "https://github.com/KerosenoDev/CursoReduxAngularNgRxFernandoHerrera-ReduxBasic#readme"
+  "homepage": "https://github.com/KerosenoDev/CursoReduxAngularNgRxFernandoHerrera-ReduxBasic#readme",
+  "dependencies": {
+    "redux": "^4.1.0"
+  }
 }
